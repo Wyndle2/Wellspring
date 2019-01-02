@@ -1,4 +1,4 @@
-#Wellspring Project:
+# Wellspring Project:
 
 An open letter to the FOSS community at large.
 
